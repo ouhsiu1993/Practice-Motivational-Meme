@@ -1,2 +1,1 @@
-# Practice-Motivational-Meme
-CSS練習
+# CSS-Motivational-Meme
